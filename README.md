@@ -37,5 +37,8 @@ npm run dev
 
 ## Screenshot
 
-![App Screenshot](./<img width="1263" height="624" alt="eat1" src="https://github.com/user-attachments/assets/febfb39d-d35d-4fc8-b50e-0ebd5633002d" />
-)
+<img width="1263" height="624" alt="eat1" src="https://github.com/user-attachments/assets/febfb39d-d35d-4fc8-b50e-0ebd5633002d" />
+
+
+<img width="655" height="755" alt="eat3" src="https://github.com/user-attachments/assets/15057c80-1682-439e-97f5-04e8066c4588" />
+

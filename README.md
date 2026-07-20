@@ -34,3 +34,8 @@ A React application that helps users split bills with friends.
 npm install
 npm run dev
 ```
+
+## Screenshot
+
+![App Screenshot](./<img width="1263" height="624" alt="eat1" src="https://github.com/user-attachments/assets/febfb39d-d35d-4fc8-b50e-0ebd5633002d" />
+)
